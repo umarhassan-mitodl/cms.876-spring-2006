@@ -1,0 +1,19 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: b4f6c653-19e6-3230-ea95-91269c01a621
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8373bb4f-580e-5995-fe2b-33b9a4f33b16
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 20
+- identifier: 47defcee-323c-ab5b-96ad-9f4d78a1ddc6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 0dbfd575-7f61-3fce-4742-1030f1711a6e
+  name: A/V Selections
+  pageRef: /pages/media-selections
+  weight: 40
